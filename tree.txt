@@ -1,0 +1,38 @@
++---build
+|      config.js
+|      utils.js
+|      webpack.base.js
+|      webpack.dev.js
+|      webpack.prod.js
+|
++---src
+|   +---assets
+|   |   +---css
+|   |   +---fonts
+|   |   +---js
+|   +---components
+|   +---filter
+|   +---router
+|   |      index.js
+|   +---scripts
+|   |      dbService.js
+|   |      operation.js
+|   |      Tray.js
+|   +---store
+|   |      boot.js
+|   |      db.js
+|   |      spawns.js
+|   |
+|   +---views
+|   |      Detail.vue
+|   |      Home.vue
+|   |      SysInfo.vue
+|   |      Welcome.vue
+|      app.js
+|      App.vue
+|
++---tests
+|
+|   index.html
+|   main.js
+|   package.json
